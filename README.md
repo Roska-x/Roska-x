@@ -3,15 +3,11 @@
   <!-- Puedes añadir un banner atractivo aquí si quieres -->
   <!-- <img src="ruta/a/tu/banner.png" alt="Banner Franco Donati" style="max-width:100%;"> -->
 
-  <h1>👋 Hola, soy Franco Donati!</h1>
-  <h3>Desarrollador Fullstack con Pasión por la Eficiencia y los Datos</h3>
+  <h1>👋 Hi, I'm Franco Donati!</h1>
+  <h3>Fullstack Developer with a Passion for Efficiency and Data</h3>
 
   <p>
-    Soy un desarrollador pragmático enfocado en construir soluciones web robustas, intuitivas y eficientes.
-    Me encanta el desafío de transformar ideas complejas en código limpio y funcional, siempre buscando optimizar
-    el rendimiento y ofrecer una gran experiencia de usuario sin sobrecargas innecesarias.
-    Mi viaje me ha llevado a combinar una sólida base en desarrollo web con un creciente interés
-    y experiencia práctica en el análisis de datos y la aplicación de Machine Learning. ✨
+    I'm a pragmatic developer focused on building robust, intuitive, and efficient web solutions. I love the challenge of transforming complex ideas into clean, functional code, always aiming to optimize performance and deliver a great user experience without unnecessary bloat. My journey has led me to combine a solid foundation in web development with a growing interest and practical experience in data analysis and applying Machine Learning. ✨
   </p>
 
   <div align="center">
