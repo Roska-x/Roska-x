@@ -4,10 +4,14 @@
   <!-- <img src="ruta/a/tu/banner.png" alt="Banner Franco Donati" style="max-width:100%;"> -->
 
   <h1>👋 Hi, I'm Franco Donati!</h1>
-  <h3>Fullstack Developer with a Passion for Efficiency and Data</h3>
+  <h3>AI Developer | Machine Learning Engineer</h3>
 
   <p>
-    I'm a pragmatic developer focused on building robust, intuitive, and efficient web solutions. I love the challenge of transforming complex ideas into clean, functional code, always aiming to optimize performance and deliver a great user experience without unnecessary bloat. My journey has led me to combine a solid foundation in web development with a growing interest and practical experience in data analysis and applying Machine Learning. ✨
+    AI Developer and Machine Learning Engineer, with experience in e-commerce analytics, financial modeling,
+and custom AI web solutions. Demonstrated achievements in building ELT pipelines, predictive models, and
+full-stack platforms, through strong command of Python, JavaScript, Flask, PostgreSQL, Pandas, and
+Scikit-learn. Supervised no direct reports and implemented AI-powered analysis tools and
+performance-optimized systems for data-driven decision-making. ✨
   </p>
 
   <div align="center">
