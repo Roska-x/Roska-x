@@ -7,11 +7,7 @@
   <h3> Fullstack dev | ML </h3>
 
   <p>
-    AI Developer and Machine Learning Engineer, with experience in e-commerce analytics, financial modeling,
-and custom AI web solutions. Demonstrated achievements in building ELT pipelines, predictive models, and
-full-stack platforms, through strong command of Python, JavaScript, Flask, PostgreSQL, Pandas, and
-Scikit-learn. Supervised no direct reports and implemented AI-powered analysis tools and
-performance-optimized systems for data-driven decision-making. ✨
+Full-Stack Dev & ML Engineer specializing in production AI applications. Expert in end-to-end architecture: Python backend, PostgreSQL, modern frontend, and complete DevOps. Proven track record building SaaS platforms in healthcare and agriculture with advanced NLP, RAG, enterprise security, AI integrations, WebSockets, and payment systems.. ✨
   </p>
 
   <div align="center">
