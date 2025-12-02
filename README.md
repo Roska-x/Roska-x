@@ -4,7 +4,7 @@
   <!-- <img src="ruta/a/tu/banner.png" alt="Banner Franco Donati" style="max-width:100%;"> -->
 
   <h1>👋 Hi, I'm Franco Donati!</h1>
-  <h3>AI Developer | Machine Learning Engineer</h3>
+  <h3> Fullstack dev | ML </h3>
 
   <p>
     AI Developer and Machine Learning Engineer, with experience in e-commerce analytics, financial modeling,
